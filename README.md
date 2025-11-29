@@ -28,29 +28,20 @@ I work with **Java, Spring Boot, React, Python, SQL, AWS, Node.js** and love sol
 Real-time messaging app with authentication, user presence indicators, and responsive UI.
 
 ---
+### 🔹 Realtime Cricket Score Application 
+📌 *Java, Spring Boot, Angular, Web Scraping, jsoup*
+Created a real-time cricket score application providing live stats, including match scores and commentary.
 
-### 🔹 Campus Online (College Management System)  
-📌 *Node.js, Express, MongoDB, EJS*  
-A full-stack system for managing students, staff, courses, and events.
-
----
+### 🔹 E-commerce web application 
+📌 *Java, Spring Boot, Angular, Docker, JWT Authentication*  
+•	Developed a full-stack application integrating Angular for the frontend and Spring Boot for the backend, with Docker for containerization and deployment. 
 
 ### 🔹 Wine Quality Prediction  
 📌 *Python, ML, Jupyter Notebook*  
-Predicted wine quality using ML algorithms like Random Forest & Logistic Regression.
-### 🔹 Realtime Cricket Score Application | Java, Spring Boot, Angular, Web Scraping, jsoup,
-Created a real-time cricket score application providing live stats, including match scores and commentary.
-
-### 🔹 E-commerce web application | Java, Spring Boot, Angular, Docker, JWT Authentication
-•	Developed a full-stack application integrating Angular for the frontend and Spring Boot for the backend, with Docker for containerization and deployment. 
+•	Predicted wine quality using ML algorithms like Random Forest & Logistic Regression.
 
 ---
 
-### 🔹 Cloud File Sharing App  
-📌 *AWS S3, Lambda, API Gateway*  
-Secure file-sharing web app deployed using serverless architecture.
-
----
 
 ## 🏆 Certifications
 
@@ -60,8 +51,8 @@ Secure file-sharing web app deployed using serverless architecture.
 ---
 
 ## 📫 Let's Connect  
-📩 Email: abd.pathan08@gmail.com  
+📩 Email: abd.pathan812@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/abdullah-pathan  
-🌐 Portfolio: your-portfolio-link  
+🌐 Portfolio: https://abd-pathan.github.io/PORTFOLIO/
 
 ---
